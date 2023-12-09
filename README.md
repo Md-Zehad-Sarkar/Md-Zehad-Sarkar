@@ -31,7 +31,7 @@ As a passionate Developer i will involed with coding from november 2022. I fill
    - [Project 2]: Description of Project 2
    - ... -->
 
-   #### 🚩 Skills
+   ### 🚩 Skills
    - Html
    - Css
    - Tailwind Css
