@@ -16,28 +16,28 @@ Here are some ideas to get you started:
 ............................................................................................................................................
 -->
 
-# 🚀 Welcome to Md-Zehad-Sarkar's GitHub Repository 🚀
+### 🚀 Welcome to Md-Zehad-Sarkar's GitHub Repository 🚀
 
-## 👋  Hey there! I'm Md Zehad Sarkar, a passionate developer.
+# 👋  Hey there! I'm Md Zehad Sarkar, a passionate developer.
 
-### 📂  Repository: Md-Zehad-Sarkar
+#### 📂  Repository: Md-Zehad-Sarkar
 
 #### 🔧 This repository is a collection of my coding projects, experiments, and learning materials. Feel free to explore the code, provide feedback, or even collaborate!
 
-### 🚀 Current Projects:
+#### 🚀 Current Projects:
 <!--
    - [Project 1]: Description of Project 1
    - [Project 2]: Description of Project 2
    - ... -->
 
-### 🌱 Learning Journey:
+#### 🌱 Learning Journey:
    - Sharing my coding journey, challenges, and lessons learned.
    - Excited to connect with fellow developers, share knowledge, and grow together.
 
-### 🤝 Connect with Me:
+#### 🤝 Connect with Me:
    - LinkedIn: [https://www.linkedin.com/in/r-a-zehad-sarkar-developer/]
    - Facebook: [https://www.facebook.com/Eng.zehadsarkar/]
    - Personal Blog: [https://zehad-sarkar-portfolio.web.app/]
 
-## 🙏 Thank you for visiting! Happy coding! 🚀
+### 🙏 Thank you for visiting! Happy coding! 🚀
 
