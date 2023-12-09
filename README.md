@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 ### 🚀 Welcome to Md-Zehad-Sarkar's GitHub Repository 🚀
 
-# 👋  Hey there! I'm Md Zehad Sarkar, a passionate developer.
+# 👋  Hey there ! I'm Md Zehad Sarkar, a passionate Developer.
 
-#### 📂  Repository: Md-Zehad-Sarkar
+#### 📂  About me !
+As a passionate Developer i will involed with coding from november 2022. I fill 
 
 #### 🔧 This repository is a collection of my coding projects, experiments, and learning materials. Feel free to explore the code, provide feedback, or even collaborate!
 
@@ -30,8 +31,20 @@ Here are some ideas to get you started:
    - [Project 2]: Description of Project 2
    - ... -->
 
+   #### 🚩 Skills
+   - Html
+   - Css
+   - Tailwind Css
+   - JavaScript
+   - TypeScript
+   - React
+   - Node / Express
+   - MongoDB
+   - Mongoose
+   - 
+
 #### 🌱 Learning Journey:
-   - Sharing my coding journey, challenges, and lessons learned.
+   - November 2022.
    - Excited to connect with fellow developers, share knowledge, and grow together.
 
 #### 🤝 Connect with Me:
