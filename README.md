@@ -35,7 +35,7 @@ Here are some ideas to get you started:
    - Excited to connect with fellow developers, share knowledge, and grow together.
 
 🤝 Connect with Me:
-   - LinkedIn: [https://www.linkedin.com/in/md-zehad-sarkar/](https://www.linkedin.com/in/r-a-zehad-sarkar-developer/]
+   - LinkedIn: [https://www.linkedin.com/in/r-a-zehad-sarkar-developer/]
    - Facebook: [https://www.facebook.com/Eng.zehadsarkar/]
    - Personal Blog: [https://zehad-sarkar-portfolio.web.app/]
 
