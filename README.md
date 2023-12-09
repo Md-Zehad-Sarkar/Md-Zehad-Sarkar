@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 ............................................................................................................................................
 -->
 
-🚀 ## Welcome to Md-Zehad-Sarkar's GitHub Repository 🚀
+🚀 ##Welcome to Md-Zehad-Sarkar's GitHub Repository 🚀
 
-👋 #### Hey there! I'm Md Zehad Sarkar, a passionate developer exploring the world of technology and coding.
+👋 ####Hey there! I'm Md Zehad Sarkar, a passionate developer exploring the world of technology and coding.
 
-📂 ### Repository: Md-Zehad-Sarkar
+📂 ###Repository: Md-Zehad-Sarkar
 
-🔧 #### This repository is a collection of my coding projects, experiments, and learning materials. Feel free to explore the code, provide feedback, or even collaborate!
+🔧 ####This repository is a collection of my coding projects, experiments, and learning materials. Feel free to explore the code, provide feedback, or even collaborate!
 
 🚀 Current Projects:
 <!--
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
    - Excited to connect with fellow developers, share knowledge, and grow together.
 
 🤝 Connect with Me:
-   - LinkedIn: [r-a-zehad-sarkar-developer]([https://www.linkedin.com/in/md-zehad-sarkar/](https://www.linkedin.com/in/r-a-zehad-sarkar-developer/))
-   - Twitter: [@Eng.zehadsarkar/]([https://twitter.com/MdZehadSarkar](https://www.facebook.com/Eng.zehadsarkar/))
-   - Personal Blog: [[TechExplorationsWithZehad.com](https://techexplorationswithzehad.com](https://zehad-sarkar-portfolio.web.app/))
+   - LinkedIn: [https://www.linkedin.com/in/md-zehad-sarkar/](https://www.linkedin.com/in/r-a-zehad-sarkar-developer/]
+   - Facebook: [https://www.facebook.com/Eng.zehadsarkar/]
+   - Personal Blog: [https://zehad-sarkar-portfolio.web.app/]
 
 🙏 Thank you for visiting! Happy coding! 🚀
 
