@@ -1,5 +1,5 @@
 <!-- Bannar photo -->
-<img src="https://www.canva.com/design/DAGEjPVYlKs/Mzs7OScKENpz8CVtxic8hw/edit?utm_content=DAGEjPVYlKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="bannar photo" />
+<img src="https://i.ibb.co/ZSBC0h6/github-profile-bannar-1.png" alt="bannar photo" />
 
 <!-- Greatings -->
 Hi Everyone! 
