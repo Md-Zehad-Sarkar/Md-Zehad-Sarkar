@@ -5,7 +5,7 @@ Hi Everyone!
 
 <div>
 <!--Another stats-->
-<img  width="60%" height="400px" src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true" alt="My Stats" />
+<img  width="60%" height="400px" src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true&theme=radical" alt="My Stats" />
 
 <!-- Languages Card Stats -->
 <img height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Zehad-Sarkar&layout=pie" alt="Top Languages Stats"/>
