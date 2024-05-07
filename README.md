@@ -1,3 +1,6 @@
+<!-- Bannar photo -->
+<img src="https://i.ibb.co/ynF8Dz6/github-profile-bannar.png" alt="bannar photo" />
+
 <!-- Greatings -->
 Hi Everyone! 
 
