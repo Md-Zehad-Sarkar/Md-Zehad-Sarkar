@@ -19,6 +19,16 @@ I am a passionate web developer. I am currently learning and focus on as a front
 `Banner/Cover photo`
 
 # Technologies
+<img src="https://i.ibb.co/sqg0QLr/HTML.png" alt="HTML"/>
+<img src="https://i.ibb.co/cckn5qQ/css.png" alt="CSS"/>
+<img src="https://i.ibb.co/87x3SFd/tailwind.png" alt="Tailwind css"/>
+<img src="https://i.ibb.co/Js4fRST/Java-Script.png" alt="JavaScript"/>
+<img src="" alt="TypeScript"/>
+<img src="https://i.ibb.co/dDY5Bwn/redux.png" alt="Redux"/>
+<img src="https://i.ibb.co/8cssGZ0/react.png" alt="React"/>
+<img src="" alt="Next Js"/>
+<img src="https://i.ibb.co/fDVKswy/material-ui.png" alt="Material UI"/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=141DD2EB&random=false&width=435&height=60&lines=HTML+CSS+Tailwind+JavaScript+;TypeScript+React+NextJS+Redux;Material+UI" alt="Typing SVG" /></a>
 
 # Also a bit of Knowledge
