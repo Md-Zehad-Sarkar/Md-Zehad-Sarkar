@@ -2,6 +2,7 @@
 
 <!--
 **Md-Zehad-Sarkar/Md-Zehad-Sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ............................................................................................................ -->
 <!-- typo name dynamically -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7721DFDF&background=42B833CA&multiline=true&random=false&width=435&height=60&lines=HI++I+Am+Zehad+Sarkar" alt="Typing SVG" /></a>
 
