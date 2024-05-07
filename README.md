@@ -2,7 +2,7 @@
 Hi Everyone! 
 # I am `'Zehad Sarkar'`
 
-[![Zehad-Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar)](https://github.com/Md-Zehad-Sarkar/github-readme-stats)
+[![Zehad-Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true)](https://github.com/Md-Zehad-Sarkar/github-readme-stats)
 
 
 ### About me
