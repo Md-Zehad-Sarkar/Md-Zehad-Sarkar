@@ -2,10 +2,7 @@
 Hi Everyone! 
 # I am `'Zehad Sarkar'`
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+[![Zehad-Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar)](https://github.com/Md-Zehad-Sarkar/github-readme-stats)
 
 
 ### About me
