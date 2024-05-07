@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ### 🚀 Welcome to Md-Zehad-Sarkar's GitHub Repository 🚀
 
 
-# 👋  Hey there ! I'm Md Zehad Sarkar, a passionate Developer.
+<!-- typo name dynamically -->
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HI++Everyone!+I'am+Zehad+Sarkar;A+Web+Developer" alt="Typing SVG" /></a>
 
 
 <!-- Social icons section -->
