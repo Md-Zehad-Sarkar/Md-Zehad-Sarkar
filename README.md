@@ -1,15 +1,13 @@
 <!-- Greatings -->
 Hi Everyone! 
 # I am `'Zehad Sarkar'`
-
-<!-- [![Zehad-Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true)](https://github.com/Md-Zehad-Sarkar/github-readme-stats) -->
-
+<div>
 <!--Another stats-->
-<img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true" alt="My Stats" />
+<img  width="48%" src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true" alt="My Stats" />
 
 <!-- Languages Card Stats -->
-<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Zehad-Sarkar&layout=compact" alt="Top Languages Stats"/>
-
+<img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Zehad-Sarkar&layout=compact" alt="Top Languages Stats"/>
+</div>
 ### About me
 I am a passionate web developer. I am currently learning and focus on as a frontend web devloper. Since 2022 I am exploring the web developer journey. I learned project based. I know HTML, CSS, Tailwind, JavaScript, TypeScript, REACT, NEXT JS, REDUX, Material UI. And also have a bit of knowledge Node, Express js, Mongoose, MongoDB, Firebase. I am learning new technologies continuously.
 
