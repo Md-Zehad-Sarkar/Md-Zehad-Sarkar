@@ -11,3 +11,10 @@ I am a passionate web developer. I am currently learning and focus on as a front
 
 # Also a bit of Knowledge
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=141DD2EB&random=false&width=435&height=60&lines=Node+Express+Mongoose%2C+MongoDB" alt="Typing SVG" /></a>
+
+<!-- ...................................................................................................................................................................... -->
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/Eng.zehadsarkar/)
