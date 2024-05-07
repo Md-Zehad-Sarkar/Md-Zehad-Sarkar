@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="[https://www.facebook.com/Eng.zehadsarkar]"><img width="32px" alt="Facebook" title="Facebook" src="[https://img.freepik.com/free-psd/3d-rendering-social-media-icon_23-2151413513.jpg?size=626&ext=jpg]"/></a>
+  <a href="[https://www.facebook.com/Eng.zehadsarkar]"><img width="32px" alt="Facebook" title="Facebook" src="[[https://img.freepik.com/free-psd/3d-rendering-social-media-icon_23-2151413513.jpg?size=626&ext=jpg](https://img.freepik.com/free-psd/3d-rendering-social-media-icon_23-2151413513.jpg?size=626&ext=jpg)]"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
