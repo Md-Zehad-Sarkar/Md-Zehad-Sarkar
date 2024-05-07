@@ -5,7 +5,7 @@ Hi Everyone!
 [![Zehad-Sarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true)](https://github.com/Md-Zehad-Sarkar/github-readme-stats)
 
 <!--Another stats-->
-<img src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar" alt="My Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true" alt="My Stats" />
 
 
 ### About me
