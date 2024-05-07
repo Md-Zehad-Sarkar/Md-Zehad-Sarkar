@@ -1,3 +1,3 @@
 <!-- Greatings -->
-<p>Hi Everyone!</p> 
+Hi Everyone! 
 # I am `'Zehad Sarkar'`.
