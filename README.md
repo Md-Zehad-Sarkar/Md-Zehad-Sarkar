@@ -15,9 +15,8 @@ I am a passionate web developer. I am currently learning and focus on as a front
 <!-- ...................................................................................................................................................................... -->
 ## :mailbox: Reach me out
 
-<br/>
 
-[<p align="center"><img height="75" src="https://i.ibb.co/pL0PV5d/Linkedin.png">]("https://www.linkedin.com/in/r-a-zehad-sarkar-developer/")[<img height="75" src="https://i.ibb.co/xmX1BtV/Facebook.png">](https://www.facebook.com/Eng.zehadsarkar/)
+<p align="center">[<img height="75" src="https://i.ibb.co/pL0PV5d/Linkedin.png">]("https://www.linkedin.com/in/r-a-zehad-sarkar-developer/")[<img height="75" src="https://i.ibb.co/xmX1BtV/Facebook.png">](https://www.facebook.com/Eng.zehadsarkar/)
 
 
 
