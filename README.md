@@ -8,7 +8,7 @@ Hi Everyone!
 
 # Current Stats
 <div>
-    ![Zehad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true)
+   
 <!--Another stats-->
 <img  width="60%" height="400px" src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true&theme=radical" alt="My Stats" />
 
