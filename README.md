@@ -9,7 +9,7 @@ Hi Everyone!
 # Current Stats
 <div>
     https://vercel.com/md-zehad-sarkars-projects/github-readme-stats-git-profile
-    <img  width="60%" height="400px" src="https://vercel.com/md-zehad-sarkars-projects/github-readme-stats-git-profile?username=Md-Zehad-Sarkar&show_icons=true&theme=radical" alt="My Stats" />
+    <img  width="60%" height="400px" src="github-readme-stats.vercel.app?username=Md-Zehad-Sarkar&show_icons=true&theme=radical" alt="My Stats" />
 <!--Another stats-->
 <img  width="60%" height="400px" src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true&theme=radical" alt="My Stats" />
 
