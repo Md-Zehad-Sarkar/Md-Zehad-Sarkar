@@ -6,11 +6,9 @@ Hi Everyone!
 
 # I am `Zehad Sarkar`
 
-# Current Stats
 <--copy State-->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Zehad-Sarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📊 Current Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Zehad-Sarkar&theme=radical&hide_border=false)
 <--copy end-->
 <div>
