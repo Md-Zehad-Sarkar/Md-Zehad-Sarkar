@@ -6,13 +6,11 @@ Hi Everyone!
 
 # I am `Zehad Sarkar`
 
-<--copy State-->
 # 📊 Current Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Zehad-Sarkar&theme=radical&hide_border=false)
-<--copy end-->
-<div>
- 
+
+<div> 
 <!--Another stats-->
 <img  width="60%" height="400px" src="https://github-readme-stats.vercel.app/api?username=Md-Zehad-Sarkar&show_icons=true&theme=radical" alt="My Stats" />
 
