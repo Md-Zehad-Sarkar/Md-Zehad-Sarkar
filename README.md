@@ -8,8 +8,7 @@ Hi Everyone!
 
 # 📊 Current Stats:
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Zehad-Sarkar&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Zehad-Sarkar&theme=radical&hide_border=false)
 
 <div> 
 <!--Another stats-->
