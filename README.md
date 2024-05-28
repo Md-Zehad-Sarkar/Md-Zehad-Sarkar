@@ -39,7 +39,7 @@ I am a passionate web developer. I am currently learning and focus on as a front
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=141DD2EB&random=false&width=435&height=60&lines=Node+Express+Mongoose%2C+MongoDB" alt="Typing SVG" /></a>
 
 <!-- ...................................................................................................................................................................... -->
-## :mailbox: Reach me out or mail: <a href="mailto:zehadsarkar22@gmail.com">zehadsarkar22@gmail.com</a>
+## :mailbox: Reach me out || mail: <a href="mailto:zehadsarkar22@outlook.com">zehadsarkar22@outlook.com</a>
 
 
 <p align="center">
