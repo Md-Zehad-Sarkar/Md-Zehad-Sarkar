@@ -32,7 +32,6 @@ I am a passionate web developer. I am currently learning and focus on as a front
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=141DD2EB&random=false&width=435&height=60&lines=HTML+CSS+Tailwind+JavaScript+;TypeScript+React+NextJS+Redux;Material+UI" alt="Typing SVG" /></a>
 
 # Also a bit of Knowledge
-
 <img width="80px" height="80px" src="https://i.ibb.co/7K13Z8j/node.png" alt="Node"/> <img width="80px" height="80px" src="https://i.ibb.co/2cH97Gm/express.png" alt="Express"/> <img width="80px" height="80px" src="https://i.ibb.co/9ZQvXkn/mongodb.png" alt="MongoDB"/> <img width="80px" height="80px" src="https://i.ibb.co/c8rqr4G/mongoose.png" alt="Mongoose"/>
 
 <!-- ...............................................................Typo play................................................................... -->
