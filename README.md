@@ -1,5 +1,4 @@
 <!-- Bannar photo -->
-
 <img width="100%" height="100%" src="https://i.ibb.co/JsWFwDB/github-profile-bannar-final.png" alt="bannar photo" />
 
 <!-- Greatings -->
